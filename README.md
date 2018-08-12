@@ -7,16 +7,15 @@
 #### Phishing Pages được tạo bởi An0nUD4Y (https://github.com/An0nUD4Y):
 Instagram,PayPal,eBay,CryptoCurrency,Verizon,Drop Box,Adobe ID,Shopify,Messenger,TwitchMyspace,Badoo,VK,Yandex,devianART
 
-![be](https://user-images.githubusercontent.com/34893261/43515905-332cf580-955a-11e8-9447-d32d0f8975c4.png)
 
 #### Miêu tả
 BLACKEYE là bản nâng cấp từ Công cụ ShellPhish gốc ( https://github.com/thelinuxchoice/shellphish ) bởi thelinuxchoice theo GNU LICENSE. Đây là công cụ Phishing hoàn chỉnh nhất, với 32 mẫu +1 có thể tùy chỉnh. CẢNH BÁO: CNTT chỉ hoạt động trên mạng LAN! Công cụ này được thực hiện cho mục đích giáo dục!
 
-## Legal disclaimer:
+## Tuyên bố từ chối trách nhiệm pháp lý:
 UViệc sử dụng BlackEye để tấn công các mục tiêu mà không có sự đồng ý trước đó là bất hợp pháp. Trách nhiệm của người dùng cuối là tuân thủ chủ trương, đường lối, chính sách của Đảng, pháp luật của nhà nước. Nhà phát triển không chịu trách nhiệm pháp lý và không chịu trách nhiệm về bất kỳ hành vi lạm dụng hoặc các thiệt hại  gây ra bởi chương trình này. Chương trình chỉ sử dụng cho mục đích giáo dục.
 
 
-### Usage:
+### Cách sử dụng:
 ```
 git clone https://github.com/tkien202/blackeye
 cd blackeye
